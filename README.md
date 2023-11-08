@@ -66,11 +66,13 @@ Run the provided Python code for web scraping. This code will fetch the latest n
 
 Make sure to customize the code for the specific website and data you want to scrape.
 
-Customization
+###Customization
 Make sure to customize the code and parameters based on your specific use case, such as the choice of assets, dataset paths, and portfolio optimization constraints.
 
 Please refer to the respective code sections and libraries for detailed documentation and customization options.
 
-Author
+##Author
+
 Varsha Balaji
+
 Feel free to reach out for any questions or further assistance.
