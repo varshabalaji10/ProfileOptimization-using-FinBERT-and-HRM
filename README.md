@@ -36,7 +36,9 @@ Portfolio optimization is a critical aspect of managing investments. In this pro
 
 ###Prerequisites
 To run the portfolio optimization code, you need to install the PyPortfolioOpt library:
+```bash
 pip install PyPortfolioOpt
+```
 ##Usage
 Install the PyPortfolioOpt library if you haven't already.
 
@@ -57,8 +59,9 @@ You can install the required library using pip, as shown in the code.
 
 # Usage
 Install the BeautifulSoup library if you haven't already:
+```bash
 pip install beautifulsoup4
-
+```
 Run the provided Python code for web scraping. This code will fetch the latest news articles from a specified website.
 
 Make sure to customize the code for the specific website and data you want to scrape.
